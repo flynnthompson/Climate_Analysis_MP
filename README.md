@@ -1,4 +1,4 @@
-# Research Assistant - Mornington Peninsula Climate Analysis
+# Mornington Peninsula Climate Analysis
 
 **Research:**
 - Rainfall & Temperature Trends (Annual & Seasonal)
@@ -14,3 +14,4 @@
 
 **Project members:**
 * Stefan Arndt, University of Melbourne
+* Mandy Freund, University of Melbourne, ARC Centre of Excellence for the Weather of the 21st Century
